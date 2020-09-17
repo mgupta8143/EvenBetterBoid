@@ -1,0 +1,15 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    overflow:hidden;
+}
+
+.boid {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    border-left: 40px solid white;
+}
